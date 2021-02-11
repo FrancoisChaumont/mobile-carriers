@@ -1,4 +1,13 @@
 {
+    "name": "francoischaumont/mobile-carriers",
+    "description": "Lookup and display tools for mobile carriers from http://mcc-mnc.com",
+    "authors": [
+        {
+            "name": "Francois Chaumont",
+            "email": "funcois@outlook.com",
+            "role": "developer"
+        }
+    ],
     "require": {
         "calibr/country-mobile-carriers": "^1.0"
     }
