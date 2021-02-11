@@ -1,0 +1,48 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "3aeec2e308bbda3b9e0f0ff49d26c25b",
+    "packages": [
+        {
+            "name": "calibr/country-mobile-carriers",
+            "version": "1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/calibr/country-mobile-carriers.git",
+                "reference": "56456255746276f57b646506971817e815c4f138"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/calibr/country-mobile-carriers/zipball/56456255746276f57b646506971817e815c4f138",
+                "reference": "56456255746276f57b646506971817e815c4f138",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "classmap": [
+                    "CountryMobileCarriers.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "authors": [
+                {
+                    "name": "calibr",
+                    "email": "awcalibr@gmail.com"
+                }
+            ],
+            "description": "Get list of mobile carriers by country code",
+            "time": "2015-12-25T19:46:34+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

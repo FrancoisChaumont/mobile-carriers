@@ -1,0 +1,14 @@
+{
+    "name": "calibr/country-mobile-carriers",
+    "description": "Get list of mobile carriers by country code",
+    "authors": [
+        {
+            "name": "calibr",
+            "email": "awcalibr@gmail.com"
+        }
+    ],
+    "autoload": {
+        "classmap": ["CountryMobileCarriers.php"]
+    },
+    "require": {}
+}

@@ -1,0 +1,5 @@
+{
+    "require": {
+        "calibr/country-mobile-carriers": "^1.0"
+    }
+}
