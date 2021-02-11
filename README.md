@@ -1,6 +1,6 @@
 # Lookup and display tools for mobile carriers from http://mcc-mnc.com
 
-This is a modified version [calibr/country-mobile-carriers](https://github.com/calibr/country-mobile-carriers).
+This is a modified version of [calibr/country-mobile-carriers](https://github.com/calibr/country-mobile-carriers).
 
 ## Requirements
 - PHP7.1+
