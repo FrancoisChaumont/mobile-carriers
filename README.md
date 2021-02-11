@@ -8,7 +8,7 @@ This is a modified version [calibr/country-mobile-carriers](https://github.com/c
 
 ## Installation
 1. Copy repository
-2. Update database        
+2. Fetch/Update database        
 ```
 php vendor/calibr/country-mobile-carriers/fetch-db.php
 ```
